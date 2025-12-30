@@ -31,6 +31,12 @@ The source code focuses on applying the following concepts with high precision:
 
 ---
 
+## 🚀 Project Update (Extension)
+I have developed an upgraded version of this project with added Transactions and logic validation. 
+**Check out the extended version here:** [Bank Management System - Extended Edition (V2)](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)
+
+---
+
 ## 📁 Repository Content
 * **My-Solution:** Contains my personal implementation (Source `.cpp` and Solution `.sln` files).
 * **Instructor-Solution:** Contains the model solution by Dr. Mohammed Abu-Hadhoud for review and technical comparison.
