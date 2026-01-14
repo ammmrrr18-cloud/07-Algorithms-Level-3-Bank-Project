@@ -1,6 +1,8 @@
 # 🏦 Bank Management System - Version 1 (V1)
 
-This project is the final practical application of **Level 7 (Algorithms & Problem Solving Level 3)** within the "Programming Advices" roadmap. The project aims to build a comprehensive system for managing client data with persistent storage using files.
+> **"A transition from individual algorithms to building functional database-driven systems."** 🚀
+
+📌 This project is the final practical application of **[Level 07: Algorithms & Problem Solving Level 3](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/07%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%203)**. The project aims to build a comprehensive system for managing client data with persistent storage using files.
 
 ---
 
@@ -13,8 +15,7 @@ The core logic is based on **Managing Data Lifecycle** between permanent storage
 ---
 
 ## 🛠️ Technical Implementation
-
-The source code focuses on applying the following concepts with high precision:
+The source code focuses on applying the following concepts with high precision to build **Functional Systems**:
 
 ### 1. String Processing
 * **Splitting:** Developed the `SplitvString` function to parse text lines using the `#//#` separator.
